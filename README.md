@@ -49,4 +49,4 @@
 
 ---
 
-🚂 Inspired by this amizing tutorial https://www.youtube.com/watch?v=f0lkz2gSsIk
+🚂 Inspired by this amazing tutorial https://www.youtube.com/watch?v=f0lkz2gSsIk
